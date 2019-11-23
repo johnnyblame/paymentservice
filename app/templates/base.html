@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+      {% if title %}
+      <title>{{ title }} - Payment Service</title>
+      {% else %}
+      <title>Welcome to Payment Service</title>
+      {% endif %}
+    </head>
+    <body>
+        <div>Payment Service</div>
+        {% block content %}{% endblock %}
+    </body>
+</html>

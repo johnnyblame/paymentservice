@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h1>Hi, </h1>
+
+<body>
+<form action="" method="post">
+    <fieldset>
+        <legend>Payment</legend>
+        {{ form.hidden_tag() }}
+        <div>
+            <p><b>
+            {{ form.amount.label }}<br>
+            {{ form.amount(size=7) }}
+            </b>
+            </p>
+            <br>
+            <p>
+            {{ form.currency.label }}
+            {{ form.currency }}
+            </p>
+
+            {{ form.product_info.label }}<br>
+            {{ form.product_info }}
+            <br>
+            {{ form.submit }}
+        </div>
+
+
+</fieldset>
+</form>
+</body>
+{% endblock %}
