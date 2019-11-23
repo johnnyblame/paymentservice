@@ -9,6 +9,7 @@ class Payment(db.Model):
     shop_id = db.Column(db.Integer)
     shop_order_id = db.Column(db.Integer, primary_key=True)
     amount = db.Column(db.Integer)
+    product_info = db.Column(db.String(256))
     currency = db.Column(db.String(10))
 
     JSON_FILENAME = '.data.json'
@@ -42,6 +43,7 @@ class Payment(db.Model):
         self.shop_order_id = kwargs.get('shop_order_id')
         self.amount = kwargs.get('amount')
         self.currency = kwargs.get('currency')
+        self.product_info = kwargs.get('product_info')
 
     def save(self):
         self.key = self.generate_key()
@@ -49,7 +51,7 @@ class Payment(db.Model):
         path = os.path.join(UPLOAD_FOLDER, self.relative_path)
         os.makedirs(path)
         infos = {'shop_id': self.shop_id, 'shop_order_id': self.shop_order_id, 'amount': self.amount,
-                 'currency': self.currency}
+                 'currency': self.currency, 'product_info': self.product_info}
         path = os.path.join(UPLOAD_FOLDER, self.relative_path)
         with open(os.path.join(path, self.key + self.JSON_FILENAME), 'w') as json_file:
             simplejson.dump(infos, json_file)
