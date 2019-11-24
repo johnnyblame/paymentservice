@@ -1,6 +1,6 @@
 from app import db
 from config import Config, UPLOAD_FOLDER
-import uuid
+from flask import abort
 import os
 import simplejson
 
@@ -19,13 +19,13 @@ class Payment(db.Model):
 
     def generate_key(self):
         hash_i = str(self.amount + ':' + self.currency + ':' + self.shop_id + ':' + self.shop_order_id + ':'
-                     + Config.SECRET_KEY)
-        key = uuid.uuid4().hex[:hash_i]
+                     + Config.SECRET_KEY).encode('utf-8')
+        key = hash_i.hex()
         return key
 
     @classmethod
     def key_to_path(cls, key):
-        relative_path = os.path.join(key[0], key[1], key)
+        relative_path = os.path.join(key)
         return relative_path
 
     @classmethod
