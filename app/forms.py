@@ -2,7 +2,7 @@ from flask_wtf import FlaskForm
 from wtforms import StringField, SubmitField, SelectField, TextAreaField
 from wtforms.validators import DataRequired
 
-CURRENCY_CHOICES = [('EUR', 'EUR'), ('USD', 'USD'), ('RUB', 'RUB')]
+CURRENCY_CHOICES = [(978, 'EUR'), (840, 'USD'), (643, 'RUB')]
 
 
 class PayForm(FlaskForm):

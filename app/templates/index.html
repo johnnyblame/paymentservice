@@ -1,33 +1,37 @@
-{% extends "base.html" %}
-{% block content %}
 
 <h1>Hi, </h1>
 
 <body>
-<form action="" method="post">
+<form name="Pay" action="https://core.piastrix.com/invoice/create" method="post">
     <fieldset>
         <legend>Payment</legend>
-        {{ form.hidden_tag() }}
         <div>
-            <p><b>
-            {{ form.amount.label }}<br>
-            {{ form.amount(size=7) }}
+            <p><b>Amount
+
+                <input type="text" name ="amount"/>
             </b>
             </p>
             <br>
             <p>
-            {{ form.currency.label }}
-            {{ form.currency }}
+            <select name="currency">
+                <option value="840">USD</option>
+                <option value="978">EUR</option>
+                <option value="643">RUB</option>
+            </select>
             </p>
-
-            {{ form.product_info.label }}<br>
-            {{ form.product_info }}
+                Description
+            <input type="text" name ="description"/><br>
+            <input type="hidden" name ="shop_id" value="5"/>
+            <input type="hidden" name ="shop_order_id" value="123456"/>
+            <input type="hidden" name="pure_sign" value = "">
+            <input type="hidden" name="sign" value = ""/>
+            <input type="hidden" name="shop_sign" value=""/>
             <br>
-            {{ form.submit }}
+            <input type="submit" value="submit"/>
+
         </div>
 
 
 </fieldset>
 </form>
 </body>
-{% endblock %}

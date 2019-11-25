@@ -1,0 +1,346 @@
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 15:26:45] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 17:09:27] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 17:10:25] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 17:10:33] "POST /result HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 17:12:02] "POST /result HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 17:26:40] "POST /result HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 17:27:54] "POST /result HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 17:28:20] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 17:28:26] "POST /result HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 17:31:14] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 17:31:23] "POST /result HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 17:32:47] "POST /result HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 17:32:54] "POST /result HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 17:34:51] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 17:35:00] "POST /result HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 17:35:11] "POST /result HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 17:35:21] "POST /result HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 17:40:11] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 17:40:23] "POST /result HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/config.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 17:42:57] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 17:43:05] "POST /result HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 17:46:39] "POST /result HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 17:49:38] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 17:49:46] "POST /result HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 17:50:13] "POST /result HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 17:52:17] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 17:52:21] "POST /result HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 17:52:31] "POST /result HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 17:52:59] "POST /result HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 17:56:29] "POST /result HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 17:56:47] "POST /result HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 18:26:20] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 18:28:08] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 18:29:05] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 18:30:42] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 18:34:24] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 19:12:46] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 19:20:03] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 19:20:52] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 19:21:40] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 19:26:23] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 19:28:32] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 19:32:59] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 19:39:37] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 19:42:00] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 19:43:56] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 19:44:29] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 19:48:14] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 19:53:00] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 19:57:28] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:01:39] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:03:20] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:03:46] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:04:08] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:05:27] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:05:49] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:06:44] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:07:17] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:08:27] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:13:05] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:14:33] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:15:05] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:22:55] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:24:39] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:31:06] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:32:07] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:32:11] "POST /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:32:12] "POST /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:32:13] "POST /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:32:13] "POST /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:32:14] "POST /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:32:14] "POST /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:33:34] "POST /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:33:36] "POST /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:33:41] "POST /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:33:41] "POST /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:33:42] "POST /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:44:56] "POST /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:45:00] "POST /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:45:01] "POST /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:45:01] "POST /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:45:02] "POST /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:46:01] "POST /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:46:05] "POST /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:46:05] "POST /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:46:06] "POST /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:46:09] "POST /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:50:26] "POST /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:50:30] "POST /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:50:36] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:50:36] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:50:36] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:50:40] "GET /index?amount=12&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:50:41] "GET /index?amount=&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:50:42] "GET /index?amount=&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:50:43] "GET /index?amount=&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:50:43] "GET /index?amount=&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:50:44] "GET /index?amount=&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:50:44] "GET /index?amount=&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:50:45] "GET /index?amount=&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:50:45] "GET /index?amount=&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:50:45] "GET /index?amount=&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:50:46] "GET /index?amount=&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:50:46] "GET /index?amount=&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:50:46] "GET /index?amount=&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:50:46] "GET /index?amount=&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:50:47] "GET /index?amount=&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:50:47] "GET /index?amount=&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:50:48] "GET /index?amount=&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:50:48] "GET /index?amount=&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:50:51] "GET /index?amount=213&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:51:17] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:51:17] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:51:21] "GET /index?amount=12&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:51:22] "GET /index?amount=&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:51:23] "GET /index?amount=&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:51:23] "GET /index?amount=&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:51:24] "GET /index?amount=&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:51:24] "GET /index?amount=&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:51:24] "GET /index?amount=&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:51:25] "GET /index?amount=&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:51:25] "GET /index?amount=&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:51:26] "GET /index?amount=&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:51:26] "GET /index?amount=&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:51:27] "GET /index?amount=&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:51:27] "GET /index?amount=&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:59:29] "GET /index?amount=12&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:59:34] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:59:34] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:59:39] "GET /index?amount=11&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:59:40] "GET /index?amount=&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 20:59:42] "GET /index?amount=&currency=840&description=&shop_id=5&shop_order_id=123456&pure_sign=&sign=&shop_sign= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:00:25] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:00:25] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:01:28] "GET /index HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:01:28] "GET /index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:01:28] "GET /index?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:01:28] "GET /index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:01:28] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:01:28] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:02:29] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:03:14] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:06:10] "GET /index HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:06:10] "GET /index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:06:10] "GET /index?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:06:10] "GET /index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:06:10] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:06:10] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:12:48] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:14:46] "GET /index HTTP/1.1" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:14:47] "GET /index HTTP/1.1" 405 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:15:10] "GET /index HTTP/1.1" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:15:11] "GET /index HTTP/1.1" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:15:12] "GET /index HTTP/1.1" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:15:12] "GET /index HTTP/1.1" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:15:12] "GET /index HTTP/1.1" 405 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:15:31] "GET /index HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:15:31] "GET /index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:15:31] "GET /index?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:15:31] "GET /index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:15:32] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:15:32] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:15:33] "GET /index HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:15:33] "GET /index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:15:33] "GET /index?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:15:33] "GET /index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:15:33] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:15:33] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:15:34] "GET /index HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:15:34] "GET /index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:15:34] "GET /index?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:15:34] "GET /index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:15:34] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:15:34] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:15:53] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:17:24] "GET /index HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:17:25] "GET /index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:17:25] "GET /index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:17:25] "GET /index?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:17:25] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:17:25] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:19:04] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2019 21:29:06] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/johnnyblame/PycharmProjects/paymentservice/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
