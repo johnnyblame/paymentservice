@@ -1,37 +1,65 @@
-
+<html>
+<head>
+    <title>Pay</title>
+</head>
 <h1>Hi, </h1>
 
 <body>
-<form name="Pay" action="https://core.piastrix.com/invoice/create" method="post">
+<form name="Pay">
     <fieldset>
         <legend>Payment</legend>
         <div>
-            <p><b>Amount
-
-                <input type="text" name ="amount"/>
-            </b>
+            <p>
+                <b>Amount
+                <input type="text" name="amount" id="1"/>
+                </b>
             </p>
             <br>
             <p>
-            <select name="currency">
+            <select name="currency" id="currency">
                 <option value="840">USD</option>
                 <option value="978">EUR</option>
                 <option value="643">RUB</option>
             </select>
             </p>
                 Description
-            <input type="text" name ="description"/><br>
-            <input type="hidden" name ="shop_id" value="5"/>
-            <input type="hidden" name ="shop_order_id" value="123456"/>
-            <input type="hidden" name="pure_sign" value = "">
-            <input type="hidden" name="sign" value = ""/>
-            <input type="hidden" name="shop_sign" value=""/>
+            <input type="text" name="description" id="2"/><br>
             <br>
-            <input type="submit" value="submit"/>
-
+            <input type="button" value="Pay" id="pay-button"/>
         </div>
 
 
 </fieldset>
 </form>
+<script type="text/javascript">
+    const pay = document.getElementById('pay-button')
+    pay.onclick = function(event) {
+        amo = document.getElementById(1).value
+        cur = document.getElementById("currency").value
+        des = document.getElementById(2).value
+        data = {
+            amount: amo,
+            currency: cur,
+            description: des
+        }
+        j = JSON.stringify(data)
+        var xhr = new XMLHttpRequest()
+        xhr.open("POST", "/pay_handler")
+        xhr.setRequestHeader("Content-Type", 'application/json')
+        xhr.send(j)
+        xhr.onreadystatechange = function () {
+        if(xhr.readyState === XMLHttpRequest.DONE && xhr.status === 200) {
+            jsonResp = JSON.parse(xhr.responseText)
+            console.log(jsonResp["redirect"]);
+            window.location.href = jsonResp["redirect"]
+            };
+        };
+        event.stopPropagation()
+
+    }
+
+
+
+</script>
 </body>
+</html>
