@@ -8,10 +8,15 @@ from flask_migrate import Migrate
 
 app = Flask(__name__)
 app.config.from_object(Config)
-db = SQLAlchemy(app)
-migrate = Migrate(app, db)
+db = SQLAlchemy()
+migrate = Migrate()
+
 
 def create_app(config_class=Config):
+    app = Flask(__name__)
+    db.init_app(app)
+    migrate.init_app(app, db)
+    app.config.from_object(config_class)
 
     if not app.debug and not app.testing:
 
