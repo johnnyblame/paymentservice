@@ -1,1 +1,1 @@
-web: flask db upgrade; gunicorn paymentservice :app
+web: flask db upgrade; gunicorn paymentservice:app
