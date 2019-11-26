@@ -6,7 +6,6 @@ from config import Config
 from flask_sqlalchemy import SQLAlchemy
 from flask_migrate import Migrate
 
-app = Flask(__name__)
 app.config.from_object(Config)
 db = SQLAlchemy()
 migrate = Migrate()
@@ -36,7 +35,7 @@ def create_app(config_class=Config):
             app.logger.addHandler(file_handler)
 
         app.logger.setLevel(logging.INFO)
-        app.logger.info('Webfilehost startup')
+        app.logger.info('payment-service startup')
 
     return app
 
