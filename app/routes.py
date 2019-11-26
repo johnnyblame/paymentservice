@@ -68,7 +68,7 @@ def pay():
             url = 'https://pay.piastrix.com/en/pay'
             headers = {'Content-Type': 'application/json'}
             data = json.dumps(params)
-            response = requests.post(url, data, headers=headers)
+            requests.post(url, data, headers=headers)
             return jsonify(dict(redirect=url))
 
 
@@ -81,7 +81,6 @@ def pay():
             product_info = j['description']
             pure_sign = '{}:{}:{}:{}:{}{}'.format(shop_currency, '{0:.2f}'.format(float(shop_amount)), shop_currency,
                                                   shop_id, shop_order_id, Config.SECRET_KEY)
-            print(pure_sign)
             sign = hashlib.sha256(pure_sign.encode('utf-8')).hexdigest()
             entry = Payment(shop_id, shop_order_id, shop_amount, shop_currency, product_info, sign, payway=None)
             db.session.add(entry)

@@ -12,8 +12,7 @@ db = SQLAlchemy(app)
 migrate = Migrate(app, db)
 
 
-def create_app(config_class=Config):
-    app.config.from_object(config_class)
+def create_app():
 
     if not app.debug and not app.testing:
 
