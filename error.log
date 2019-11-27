@@ -1722,3 +1722,10 @@ INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 01:32:38] "GET / HTTP/1.1" 302 -
 INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 01:32:38] "GET /index HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 01:32:48] "POST /pay_handler HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 02:00:07] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 02:00:08] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 02:00:19] "POST /pay_handler HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 02:00:53] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 02:01:00] "POST /pay_handler HTTP/1.1" 200 -

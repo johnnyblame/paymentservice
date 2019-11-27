@@ -1,11 +1,17 @@
 import hashlib
 import logging
 import requests
-from flask import render_template, redirect, request, jsonify
-from app import app, db
-from app.models import Payment
+from flask import render_template, redirect, request, jsonify, Flask
 from config import Config
 import json
+from flask_sqlalchemy import SQLAlchemy
+from flask_migrate import Migrate
+
+app = Flask(__name__)
+app.config.from_object(Config)
+db = SQLAlchemy(app)
+from models import Payment
+migrate = Migrate(app, db)
 
 logging.basicConfig(filename='error.log', level=logging.INFO)
 
@@ -98,3 +104,6 @@ def pay():
             else:
                 print(response)
 
+
+if __name__ == '__main__':
+    app.run()

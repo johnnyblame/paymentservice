@@ -1,4 +1,4 @@
-from app import db
+from routes import db
 
 
 class Payment(db.Model):
